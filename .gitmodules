@@ -1,0 +1,3 @@
+[submodule "cdk-websocket-poc"]
+	path = cdk-websocket-poc
+	url = https://github.com/erickGoJi/cdk-websocket-poc.git
